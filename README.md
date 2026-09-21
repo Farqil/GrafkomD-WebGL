@@ -1,4 +1,4 @@
-# Inisial FN dengan WebGL
+# Visualisasi Inisial dengan WebGL
  
 - **Nama:** Farrel Aqilla Novianto
 - **NRP:** 5025241015
